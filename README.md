@@ -61,7 +61,7 @@ _A screenshot or GIF of your Excel dashboard would go here if available._
 ## 👤 Author
 
 **Devraj Chauhan**  
-[LinkedIn Profile](https://www.linkedin.com/in/devrajchauhan17)  
+[LinkedIn Profile](https://www.linkedin.com/in/devraj-chauhan-4299ba283/)  
 _Data Analyst | Excel | SQL | Tableau | Power BI_
 
 ---
